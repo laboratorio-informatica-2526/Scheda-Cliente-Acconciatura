@@ -1,5 +1,5 @@
 > ### 🎭 Contesto
-> **Siete titolari del vostro centro estetico.**  
+> **Siete titolari del vostro centro di acconciatura.**  
 > Una cliente vi ha richiesto un percorso di trattamento personalizzato.  
 > Prima di progettare l’intervento, raccogliete dati in modo **rigoroso** e **responsabile**.
 
@@ -13,4 +13,12 @@
 > ### 💻 Task
 > - **Aprite** Word  
 > - **Producete** la scheda cliente  
-> - **Inviatela** a g.uzzalli@capodarcoromaformazione.it
+> - **Inviatela** al cloud del laboratorio.
+
+> ### 🎁 Bonus
+> - C'è il logo di Capodarco.
+> - C'è il vostro logo.
+> - C'è un'immagine.
+> - Si rivolge al cliente.  
+
+
